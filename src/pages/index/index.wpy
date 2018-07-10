@@ -1,0 +1,9 @@
+<style lang="less">
+
+</style>
+<template src="./index.html">
+
+</template>
+
+<script src="./index.ts" lang="typescript">
+</script>
